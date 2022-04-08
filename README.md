@@ -1,6 +1,6 @@
 ## Olá! eu sou a Bianca Macieira 
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://biancama16.github.io/portifolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMa16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMa16&layout=compact&langs_count=7&theme=dracula"/>
