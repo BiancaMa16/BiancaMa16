@@ -1,5 +1,5 @@
 ## Olá! eu sou a Bianca Macieira 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row">
   <div align="center" style="display: inline block">
     <a href="https://biancama16.github.io/portfolio/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMa16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
